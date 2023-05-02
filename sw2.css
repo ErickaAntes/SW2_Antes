@@ -1,0 +1,33 @@
+div#box{
+			height: 300px;
+			widows: 200px;
+			background-color: #6C85BD;
+			margin-left: 55px;
+			margin-top: 30px;
+			position: absolute;
+			border-radius: 30px;
+		}
+		div#text {
+			position: relative;
+			padding-top: 60px;
+			text-align: center;
+			font-weight:bolder;
+			color: white;
+		}
+		#id1 {
+			width: 500px;
+		}
+		#text2 {
+			position: relative;
+			padding-top: 20px;
+			text-align: center;
+			font-weight:bolder ;
+		}
+		#button {
+			position: relative;
+			margin-left: 20px;
+		}
+		#id2 {
+			color: white;
+			margin-top: 10px;
+		}
